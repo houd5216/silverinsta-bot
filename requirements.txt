@@ -3,3 +3,4 @@ requests
 aiohttp
 beautifulsoup4
 whois
+instaloader
